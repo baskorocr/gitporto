@@ -138,6 +138,9 @@ const CONFIG = {
     },
   ],
   certifications: [
+    { name: '2nd Winner of Improvement (KIDP XVIII) Dharma Polimetal Tbk.', body: '', year: '2025', link: '', }, 
+    { name: 'Coordinating Industrial Transformation 4.0 BNSP', body: '', year: '2025', link: 'https://drive.google.com/file/d/1xf5zyBjRYnE92RpTLL8TJsDITGNGgdXF/view', }, 
+    { name: 'COMPETENCY BASED TECHNICAL GUIDANCE INDUSTRY TRANSFORMATION MANAGER 4.0 BY KEMENPERIN', body: '', year: '2025', link: 'https://drive.google.com/file/d/1N1CSXNJBpHB-dhQYHbPO596sV_81r1ZJ/view', },
     {
       name: '1nd Winner of AI and IoT  Category in AMICTA',
       body: 'Research healt System for AI and IoT ',
